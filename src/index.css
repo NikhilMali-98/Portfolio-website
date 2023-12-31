@@ -15,17 +15,14 @@
     margin: 0;
     scroll-behavior: smooth;
 }
-
 html{
     font-size:62.5%; 
     height: 100%;
 }
-
 body{
     background-color: var(--yellow-theme-background-color);
     height: 100%;
 }
-
 #root{
     height: 100%;
 }
