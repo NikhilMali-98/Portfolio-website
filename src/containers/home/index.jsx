@@ -34,7 +34,7 @@
 //                     <div className="home__text-wrapper">
 //                         <h3>
 //                             an enthusiastic and mature coder
-//                             with a constant thirst for learning and growth
+//                             with a constant thirst for learning and growth.
 //                         </h3>
 //                     </div>
 
