@@ -30,7 +30,7 @@ const personalDetails = [
     },
 ];
 
-const jobSummary = 'I am a Engineer who likes computers, Coding, and Programming. I am always interested to learn new skills related to Computer Science. Currently pursuing C-DAC at MET IIT Nashik. Also, I am having 3 Year work experience related to Construction Site & Planning - Sanctioning Building, Bungalow, Industrial sheds, etc.';
+const jobSummary = 'I am a Engineer who likes computers, Coding, and Programming. I am always interested to learn new skills related to Computer Science. Currently completed Post-Graduation (C-DAC) @ MET IIT Nashik. Also, I am having 3 year work experience related to Construction Site & Planning - Sanctioning Building, Bungalow, Industrial sheds, etc.';
 
 
 const About = () => {
